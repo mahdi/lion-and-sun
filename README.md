@@ -55,4 +55,4 @@ Small complication families show the emblem only. Rectangular and inline familie
 
 ## Artwork
 
-The source Lion and Sun artwork is stored in `Assets/` and packaged into Xcode asset catalogs for the app and complication extension.
+The source Lion and Sun artwork is from [Flag of Iran](https://flagofiran.com/). A local copy is stored in `Assets/` and packaged into Xcode asset catalogs for the app and complication extension.
